@@ -1,0 +1,107 @@
+responseContentType,encoder,mode_is
+Nan,0,0
+application/atom+xml;charset=UTF-8,1,0
+application/javascript,2,0
+application/javascript; charset=GB18030,3,0
+application/javascript; charset=UTF-8,4,0
+application/javascript; charset=utf-8,5,0
+application/javascript;charset=UTF-8,6,0
+application/javascript;charset=utf-8,7,0
+application/json,8,0
+application/json; charset=GBK,9,0
+application/json; charset=UTF-8,10,0
+application/json; charset=utf-8,11,0
+application/json;charset=GBK,12,0
+application/json;charset=ISO-8859-1,13,0
+application/json;charset=UTF-8,14,1
+application/json;charset=utf-8,15,0
+application/json;charset=utf8,16,0
+application/msexcel,17,0
+application/multipart-formdata,18,0
+application/multipart-formdata;charset=utf-8,19,0
+application/octet-stream,20,0
+"application/octet-stream, text/html",21,0
+application/octet-stream; charset=utf-8,22,0
+application/octet-stream;charset=UTF-8,23,0
+application/octet-stream;charset=gbk,24,0
+application/octet-stream;charset=utf-8,25,0
+application/protobuf,26,0
+application/protobuf;charset=UTF-8,27,0
+application/soap+xml,28,0
+application/soap+xml; charset=utf-8,29,0
+application/vnd.atl.streams+json;charset=UTF-8,30,0
+application/x-git-receive-pack-result,31,0
+application/x-javascript,32,0
+application/x-javascript;,33,0
+application/x-javascript; charset: utf-8,34,0
+application/x-javascript; charset=gbk,35,0
+application/x-javascript; charset=utf-8,36,0
+application/x-javascript; charset=utf8,37,0
+application/x-javascript;charset=utf-8,38,0
+application/x-www-form-urlencoded,39,0
+application/xhtml+xml,40,0
+application/zip,41,0
+audio/x-bd-bv,42,0
+image/Png,43,0
+image/bmp,44,0
+image/gif,45,0
+image/gif;charset=UTF-8,46,0
+image/jpeg,47,0
+image/jpeg; charset=utf8,48,0
+image/jpeg;charset=UTF-8,49,0
+image/png,50,0
+image/png;charset=UTF-8,51,0
+image/svg+xml,52,0
+image/webp,53,0
+image/webp; charset=utf-8,54,0
+image/x-icon,55,0
+plain/text; charset=utf-8,56,0
+request,57,0
+text/css,58,0
+text/css;charset=UTF-8,59,0
+text/html,60,0
+"text/html, image/gif",61,0
+"text/html, text/html; charset=utf-8",62,0
+text/html; Charset=utf-8,63,0
+text/html; Language=UTF-8;charset=UTF-8,64,0
+text/html; charset=GB2312,65,0
+text/html; charset=GBK,66,0
+text/html; charset=UTF-8,67,0
+text/html; charset=gb2312,68,0
+text/html; charset=gbk,69,0
+text/html; charset=iso-8859-1,70,0
+text/html; charset=uft-8,71,0
+text/html; charset=us-ascii,72,0
+text/html; charset=utf-8,73,0
+text/html;Charset=utf-8,74,0
+text/html;charset=GBK,75,0
+text/html;charset=ISO-8859-1,76,0
+text/html;charset=UTF-8,77,0
+text/html;charset=gb2312,78,0
+text/html;charset=utf-8,79,0
+text/html;charset=utf8,80,0
+text/javascript; charset=utf-8,81,0
+text/javascript;charset=UTF-8,82,0
+text/javascript;charset=utf-8,83,0
+text/json,84,0
+text/json; charset=utf-8,85,0
+text/octet,86,0
+text/plain,87,0
+text/plain; Charset=UTF-8,88,0
+text/plain; charset=UTF-8,89,0
+text/plain; charset=gb2312,90,0
+text/plain; charset=utf-8,91,0
+text/plain; charset=utf8,92,0
+text/plain;charset=GBK,93,0
+text/plain;charset=ISO-8859-1,94,0
+text/plain;charset=UTF-8,95,0
+text/plain;charset=gbk,96,0
+text/vnd.trolltech.linguist,97,0
+text/xml,98,0
+"text/xml; charset=""utf-8""",99,0
+text/xml; charset=UTF-8,100,0
+text/xml; charset=utf-16LE,101,0
+text/xml; charset=utf-8,102,0
+text/xml;charset=UTF-8,103,0
+text/xml;charset=utf-8,104,0
+video/mp4,105,0

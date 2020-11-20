@@ -1,0 +1,6 @@
+requestMethod,encoder,mode_is
+GET,0,0
+HEAD,1,0
+OPTIONS,2,0
+POST,3,1
+PUT,4,0

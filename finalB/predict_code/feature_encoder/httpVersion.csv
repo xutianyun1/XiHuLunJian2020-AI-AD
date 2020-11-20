@@ -1,0 +1,4 @@
+httpVersion,encoder,mode_is
+HTTP/1.0,0,0
+HTTP/1.1,1,1
+Nan,2,0
